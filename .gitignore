@@ -10,3 +10,4 @@ Thumbs.db
 .vscode
 node_modules
 .ruby-version
+assets/.vite/
